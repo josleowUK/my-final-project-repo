@@ -1,7 +1,7 @@
 {
-    "title": "Visit Singapore",
-    "info": "There are places of interests on Singapore map - find camera icon and click. Popup will show up.", 
+    "title": "Visit Singapore & Population Density per property type",
+    "info": "There are places of interests on Singapore map - find camera icon and click. Popup will show up. Static maps show the population density per property type: HDB, Condo and Landed.", 
     "coordinates": [103.823537, 1.351167],
     "author": "josleowUK", 
-    "link": "https://josleowuk.github.io/sg" 
+    "link": "https://josleowuk.github.io/my-final-project-repo" 
 }
